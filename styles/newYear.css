@@ -314,7 +314,7 @@ main {
     text-align: center;
 }
 
-.hh{
+.hh {
     padding-top: 80px;
 }
 
@@ -382,4 +382,93 @@ input {
     font-size: 20px;
     font-weight: 600;
     text-transform: capitalize;
+}
+
+/* footer section styles */
+
+.footer {
+    margin-top: 120px;
+    background: #070211;
+    width: 1600px;
+    flex-shrink: 0;
+}
+
+.tuntuni {
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+    padding-left: 100px;
+    padding-top: 120px;
+    padding-bottom: 50px;
+    /* 166.667% */
+}
+
+.phone {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    /* 166.667% */
+}
+
+.jk {
+    position: absolute;
+    transform: translate(-150%, 120%);
+    /* padding-bottom: 0; */
+    margin: 0px 0px;
+}
+
+
+.dabba {
+    display: flex;
+    gap: 700px
+}
+
+.danda {
+    padding-top: 120px;
+    display: flex;
+    padding-right: 200px;
+}
+
+.ll {
+    padding-bottom: 50px;
+    display: flex;
+    padding-right: 200px;
+}
+
+.social {
+    text-align: center;
+    padding: 48px 0px;
+}
+
+
+.Jim{
+    display: flex;
+    gap: 840px;
+    padding-bottom: 120px;
+}
+
+.tun {
+    padding-left: 100px;
+    
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.ton {
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.social img {
+    margin: 12px;
+}
+
+hr {
+    width:  1300px;
 }
